@@ -84,4 +84,4 @@ echo
 git pull
 sleep 2
 clear
-python Z.cpython-39.pyc
+python2 cr4ck.so
